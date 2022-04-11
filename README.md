@@ -3,3 +3,4 @@
 </a>
 
 # PollyWig
+PollyWig is a token on the Binance Smart Chain blockchain.
