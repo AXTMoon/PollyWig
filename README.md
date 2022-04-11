@@ -1,6 +1,12 @@
-<a href="8.8.8.8">
-    <img src="https://discord.com/assets/68af06bbac9f4830d08fa474f201f92b.svg" alt="Pollywig" title="PollyWig" align="right" height="60" />
+<a href="https://discord.com/assets/68af06bbac9f4830d08fa474f201f92b.svg">
+    <img src="https://discord.com/assets/68af06bbac9f4830d08fa474f201f92b.svg" alt="PollyWig" title="PollyWig" align="right" height="60" />
 </a>
+
+# PollyWig
+
+[![Total Downloads](https://poser.pugx.org/aimeos/aimeos-typo3/d/total.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/aimeos/aimeos-typo3/?branch=master)
+[![License](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)](https://packagist.org/packages/aimeos/aimeos-typo3)
 
 :star: Star us on GitHub — it motivates us a lot!
 
